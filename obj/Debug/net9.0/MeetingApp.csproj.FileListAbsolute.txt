@@ -27,3 +27,5 @@ C:\Users\ASUS\Desktop\Ders\Staj_hazırlık\MeetingApp\obj\Debug\net9.0\MeetingAp
 C:\Users\ASUS\Desktop\Ders\Staj_hazırlık\MeetingApp\obj\Debug\net9.0\MeetingApp.genruntimeconfig.cache
 C:\Users\ASUS\Desktop\Ders\Staj_hazırlık\MeetingApp\obj\Debug\net9.0\ref\MeetingApp.dll
 C:\Users\ASUS\Desktop\Ders\Staj_hazırlık\MeetingApp\obj\Debug\net9.0\MeetingApp.sourcelink.json
+C:\Users\ASUS\Desktop\Ders\Staj_hazırlık\MeetingApp\obj\Debug\net9.0\MeetingApp.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Ders\Staj_hazırlık\MeetingApp\obj\Debug\net9.0\MeetingApp.RazorAssemblyInfo.cs
