@@ -1,7 +1,8 @@
 @{
+    ViewBag.Title = "Başvuru Ekranı";
     Layout = "_Layout2";
 }
 
-<h1 class="h4">Merhaba</h1>
+<h1 class="h4">@ViewBag.Selamlama ,@ViewBag.Username</h1>
 <p>Toplantı katıllımı durumunuzu bildiriniz</p>
 <a class="btn btn-sm btn-outline-primary" asp-controller="Meeting" asp-action="Apply" >Başvuru Yap</a>
