@@ -13,5 +13,8 @@ app.MapControllerRoute(
     pattern: "{controller=HOme}/{action=Index}/{id?}"
 );
 
+app.UseStaticFiles();
+
+app.UseRouting();
 
 app.Run();
