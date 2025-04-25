@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "y8CN3dnkxVOtPAH+YWTIje7ELZDFt0ha4fZCxOah4Uc=",
+  "Hash": "3IigMzu2hIW1OoWsN7a2J0y8+8npj/VVOVJWRMGJRT8=",
   "Source": "MeetingApp",
   "BasePath": "_content/MeetingApp",
   "Mode": "Default",
@@ -1718,6 +1718,27 @@
       "OriginalItemSpec": "C:\\Users\\ASUS\\Desktop\\Ders\\Staj_hazırlık\\MeetingApp\\wwwroot\\lib\\bootstrap\\js\\src\\util\\template-factory.js"
     },
     {
+      "Identity": "C:\\Users\\ASUS\\Desktop\\Ders\\Staj_hazırlık\\MeetingApp\\obj\\Debug\\net9.0\\compressed\\mzwtatcgcn-h51dkb2mid.gz",
+      "SourceId": "MeetingApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Desktop\\Ders\\Staj_hazırlık\\MeetingApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MeetingApp",
+      "RelativePath": "css/style#[.{fingerprint=h51dkb2mid}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ASUS\\Desktop\\Ders\\Staj_hazırlık\\MeetingApp\\wwwroot\\css\\style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "7ajedhvnew",
+      "Integrity": "Hxq1mwpbBuJG77t7tFe8++FcQAPorGen37EM2uv1ReE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ASUS\\Desktop\\Ders\\Staj_hazırlık\\MeetingApp\\wwwroot\\css\\style.css"
+    },
+    {
       "Identity": "C:\\Users\\ASUS\\Desktop\\Ders\\Staj_hazırlık\\MeetingApp\\obj\\Debug\\net9.0\\compressed\\n3prtqxmoa-nowsy9otc3.gz",
       "SourceId": "MeetingApp",
       "SourceType": "Discovered",
@@ -2661,6 +2682,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ASUS\\Desktop\\Ders\\Staj_hazırlık\\MeetingApp\\wwwroot\\lib\\bootstrap\\js\\dist\\popover.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Desktop\\Ders\\Staj_hazırlık\\MeetingApp\\wwwroot\\css\\style.css",
+      "SourceId": "MeetingApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Desktop\\Ders\\Staj_hazırlık\\MeetingApp\\wwwroot\\",
+      "BasePath": "_content/MeetingApp",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h51dkb2mid",
+      "Integrity": "FYe8uVyWWu9IqVuRdnx5pnplx0hOj7y4+U8ItUOt2Zo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
       "Identity": "C:\\Users\\ASUS\\Desktop\\Ders\\Staj_hazırlık\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
@@ -7263,6 +7305,304 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\Ders\\Staj_hazırlık\\MeetingApp\\obj\\Debug\\net9.0\\compressed\\mzwtatcgcn-h51dkb2mid.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.009900990099"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hxq1mwpbBuJG77t7tFe8++FcQAPorGen37EM2uv1ReE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 17:21:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"FYe8uVyWWu9IqVuRdnx5pnplx0hOj7y4+U8ItUOt2Zo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FYe8uVyWWu9IqVuRdnx5pnplx0hOj7y4+U8ItUOt2Zo="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\Ders\\Staj_hazırlık\\MeetingApp\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FYe8uVyWWu9IqVuRdnx5pnplx0hOj7y4+U8ItUOt2Zo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 17:21:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FYe8uVyWWu9IqVuRdnx5pnplx0hOj7y4+U8ItUOt2Zo="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css.gz",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\Ders\\Staj_hazırlık\\MeetingApp\\obj\\Debug\\net9.0\\compressed\\mzwtatcgcn-h51dkb2mid.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hxq1mwpbBuJG77t7tFe8++FcQAPorGen37EM2uv1ReE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 17:21:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hxq1mwpbBuJG77t7tFe8++FcQAPorGen37EM2uv1ReE="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.h51dkb2mid.css",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\Ders\\Staj_hazırlık\\MeetingApp\\obj\\Debug\\net9.0\\compressed\\mzwtatcgcn-h51dkb2mid.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.009900990099"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hxq1mwpbBuJG77t7tFe8++FcQAPorGen37EM2uv1ReE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 17:21:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"FYe8uVyWWu9IqVuRdnx5pnplx0hOj7y4+U8ItUOt2Zo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h51dkb2mid"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FYe8uVyWWu9IqVuRdnx5pnplx0hOj7y4+U8ItUOt2Zo="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.h51dkb2mid.css",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\Ders\\Staj_hazırlık\\MeetingApp\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FYe8uVyWWu9IqVuRdnx5pnplx0hOj7y4+U8ItUOt2Zo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 17:21:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h51dkb2mid"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FYe8uVyWWu9IqVuRdnx5pnplx0hOj7y4+U8ItUOt2Zo="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.h51dkb2mid.css.gz",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\Ders\\Staj_hazırlık\\MeetingApp\\obj\\Debug\\net9.0\\compressed\\mzwtatcgcn-h51dkb2mid.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hxq1mwpbBuJG77t7tFe8++FcQAPorGen37EM2uv1ReE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 17:21:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h51dkb2mid"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hxq1mwpbBuJG77t7tFe8++FcQAPorGen37EM2uv1ReE="
+        }
+      ]
+    },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetFile": "C:\\Users\\ASUS\\Desktop\\Ders\\Staj_hazırlık\\MeetingApp\\obj\\Debug\\net9.0\\compressed\\jm2m3gsaho-s2taj0jpt8.gz",

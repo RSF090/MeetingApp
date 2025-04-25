@@ -30,13 +30,12 @@ namespace MeetingApp.Controllers
         selamlama = "İyi Akşamlar";
     }
     ViewBag.Selamlama = selamlama;
-    ViewBag.Username="Furkan";
-    
+    int UserCount = Repository.Users.Where(info => info.WillAttend == true).Count();
     var meetingInfo = new MeetingInfo
     {
         Id = 1, Location = "İstanbul",
         Date = new DateTime(2024, 01, 20, 20, 0, 0), 
-        numberOfPeople = 100 ,
+        numberOfPeople = UserCount ,
         };
     return View(meetingInfo);
 }
